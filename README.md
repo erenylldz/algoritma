@@ -1,2 +1,2 @@
 # algoritma
-patika veri yapıları ve algoritmalar
+Patika veri yapıları ve algoritmalar
